@@ -26,3 +26,6 @@ References:
 
 [13] Schölkopf, Bernhard, et al. "Toward causal representation learning." Proceedings of the IEEE, 2021.
 
+[14] Zahra Asghari Varzaneh, Reza Khoshkangini, Pia Saldeen, Lars Johansson, Thomas Ebner, ''Context-Aware Hierarchical Bayesian Modeling of IVF Laboratory Environmental Conditions'', arXiv e-prints (submitted CPHAI 2026: Converging Perspectives on Health AI: Bridging Technical, Clinical, Sociolegal, and Ethical Research) 
+
+
